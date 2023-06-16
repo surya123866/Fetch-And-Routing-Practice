@@ -1,0 +1,15 @@
+.thumbnail {
+  width: 80%;
+  height: 400px;
+}
+.avatar {
+  width: 60px;
+  border-radius: 60px;
+  margin-right: 20px;
+}
+.flexRow {
+  display: flex;
+}
+.container {
+  padding: 20px;
+}
